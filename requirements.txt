@@ -2,6 +2,6 @@ streamlit
 pandas
 nltk
 scikit-learn
-tensorflow
+tensorflow-cpu
 pillow
 numpy
