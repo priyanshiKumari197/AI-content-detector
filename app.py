@@ -5,7 +5,7 @@ import nltk
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-import tensorflow as tf
+# import tensorflow as tf
 from PIL import Image, ImageOps
 import numpy as np
 import os
