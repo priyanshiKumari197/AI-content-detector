@@ -1,7 +1,5 @@
 streamlit
-pandas
 scikit-learn
+pandas
 nltk
-numpy
-tensorflow
-pillow
+numpy<2.0.0
