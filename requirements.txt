@@ -1,7 +1,5 @@
 streamlit
 pandas
-nltk
 scikit-learn
-tensorflow-cpu==2.15.0
-pillow
-numpy<2.0.0
+nltk
+numpy
